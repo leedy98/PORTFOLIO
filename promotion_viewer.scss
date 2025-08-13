@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  .detail {
+    width: 100vw;  // 부모 요소도 가로 100%
+    //overflow: hidden; // 혹시 넘칠 때 대비
+
+    img {
+      width: 100vw;  // 이미지 너비 100%
+      height: auto;  // 비율 유지
+      display: block; // 아래 여백 제거
+    }
+  }
+}

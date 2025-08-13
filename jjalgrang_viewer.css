@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+body .detail {
+  width: 100vw;
+}
+body .detail img {
+  width: 100vw;
+  height: auto;
+  display: block;
+}/*# sourceMappingURL=jjalgrang_viewer.css.map */
